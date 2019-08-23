@@ -41,8 +41,6 @@
   <platform name="ios">
 
     <!-- Required by the Mobile SDK plugin for WKWebView -->
-    <dependency id="cordova-plugin-wkwebview-engine" url="https://github.com/apache/cordova-plugin-wkwebview-engine" commit="1.1.4" />
-
     <!-- Required by the Mobile SDK plugin for Cocoapods -->
     <dependency id="cordova-plugin-cocoapod-support" />
 
